@@ -1,0 +1,22 @@
+
+#divMapa {
+
+    position: static;
+    margin-top: 60px;
+    margin-left: 10px;
+    margin-right: 20px;
+    top: 20px;
+    float: right;
+    width: 48%;
+    height: 500px;
+    border-radius: 6px;
+}
+
+#divAvisos {
+    float: left;
+    width: 48%;
+    height: 572px;
+    margin-left: 20px;
+    margin-right: 10px;
+
+}

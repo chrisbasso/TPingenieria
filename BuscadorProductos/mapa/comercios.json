@@ -1,0 +1,67 @@
+[
+  {
+    "name":"Celulares Patito",
+    "location": [-34.5136708, -58.6870566 ],
+    "horario": "Lun a Vie de 8 a 20",
+    "direccion": "Calle 123",
+    "idCategoria": 1
+  },
+  {
+    "name":"Cacho Phones",
+    "location": [-34.5109681, -58.6849453 ],
+    "horario": "Lun a Vie de 8 a 20",
+    "direccion": "Calle 123",
+    "idCategoria": 1
+  },
+  {
+    "name":"Celulares Doña Norma",
+    "location": [-34.5120827, -58.6861119],
+    "horario": "Lun a Vie de 8 a 20",
+    "direccion": "Calle 123",
+    "idCategoria": 1
+  },
+  {
+    "name":"Aipon",
+    "location": [-34.5109681, -58.6871453 ],
+    "horario": "Lun a Vie de 8 a 20",
+    "direccion": "Calle 123",
+    "idCategoria": 1
+  },
+  {
+    "name":"Bazar Doña Rosa",
+    "location": [ -34.5136708, -58.6870566 ],
+    "horario": "Lun a Vie de 8 a 20",
+    "direccion": "Calle 123",
+    "idCategoria": 2
+  },
+  {
+    "name":"Bazar Mama Cora",
+    "location": [ -34.5138708, -58.6850566 ],
+    "horario": "Lun a Vie de 8 a 20",
+    "direccion": "Calle 123",
+    "idCategoria": 2
+  },
+  {
+    "name":"Bazar RompeTaza",
+    "location": [ -34.5186708, -58.6848566 ],
+    "horario": "Lun a Vie de 8 a 20",
+    "direccion": "Calle 123",
+    "idCategoria": 2
+  },
+  {
+    "name":"Caza y Pesca Pescame esta",
+    "location": [ -34.5186108, -58.6878566 ],
+    "horario": "Lun a Vie de 8 a 20",
+    "direccion": "Calle 123",
+    "idCategoria": 3
+  },
+  {
+    "name":"Carpas pepito",
+    "location": [ -34.5184708, -58.6858566 ],
+    "horario": "Lun a Vie de 8 a 20",
+    "direccion": "Calle 123",
+    "idCategoria": 3
+  }
+
+
+]

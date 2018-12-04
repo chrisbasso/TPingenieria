@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" />
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="mapa/view.css">
+    <link rel="stylesheet" href="styleBuscadorProductos.css" />
+
+    <link rel="stylesheet" href="mapa/leaflet/leaflet.css">
+    <script src="mapa/leaflet/leaflet.js"></script>
+    <script src="mapa/view.js"></script>
+
+    <link rel="stylesheet" href="mapa/leaflet/MarkerCluster.css">
+    <link rel="stylesheet" href="mapa/leaflet/MarkerCluster.Default.css">
+    <script src="mapa/leaflet/leaflet.markercluster-src.js"></script>
+
+
+    <title>Cooperativa de Comercio</title>
+</head>
+<body onload="bootstrap()">
+<h1 class="display-1 text-center">Cooperativa de Comercio</h1>
+<hr>
+
+
+<div id="divAvisos">
+    <p><br></p>
+    <h3 class="display-6 text-center">¿Que estás buscando?</h3>
+    <input type="search" class="form-control" id="search" placeholder="Ingrese nombre del Producto"><br>
+    <table class="table table-striped table-bordered table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Producto</th>
+                <th scope="col">Precio</th>
+                <th scope="col">Imagen</th>
+                <th scope="col">Ubicación</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+
+<div id="divMapa">
+
+</div>
+
+
+</body>
+</html>

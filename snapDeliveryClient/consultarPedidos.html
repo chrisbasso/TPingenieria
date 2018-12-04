@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head>
+
+    <meta charset="utf-8">
+    <title>Mis pedidos</title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="css/ConsultarPedido.css">
+    <link rel="stylesheet" href="lib/leaflet/leaflet.css">
+    <link rel="stylesheet" href="lib/leaflet/MarkerCluster.css">
+    <link rel="stylesheet" href="lib/leaflet/MarkerCluster.Default.css">
+    <script src="lib/jquery-3.1.1.min.js" charset="utf-8"></script>
+    <script src="scripts/ConsultarPedidos.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script src="lib/leaflet/leaflet.js"></script>
+    <script src="lib/leaflet/leaflet.markercluster-src.js"></script>
+    <script src="scripts/config.js"></script>
+    <script src="scripts/mapCreator.js" charset="utf-8"></script>
+    <script src="scripts/Repartidor.js"></script>
+    <script src="scripts/drawer.js" charset="utf-8"></script>
+    <script src="scripts/Recorrido.js"></script>
+    <script src="scripts/SeguimientoPedido.js"></script>
+
+  </head>
+  <body>
+
+    <h1 class="h1 text-center card-header">Cooperativa de comercio</h1>
+    <div class="dropdown-divider"></div>
+    <div id="divPedidos">
+      <h2 class="h2 card-header">Pedidos pendientes:</h2>
+      <div class="dropdown-divider"></div>
+      <div class="container" id="divPedido1"></div>
+      <div class="dropdown-divider"></div>
+      <div class="container" id="divPedido2"></div>
+      <div class="dropdown-divider"></div>
+    </div>
+    <div id="divMapa">
+    </div>
+
+
+  </body>
+</html>

@@ -1,0 +1,22 @@
+html {
+  background-color: lightgrey;
+}
+
+#divMapa {
+  float: right;
+  position: static;
+  height: 600px;
+  margin: 50px 30px 10px 10px;
+  width: 70%;
+
+}
+
+#divPedidos {
+  float: left;
+  width: 20%;
+  font-size: 16px;
+  margin: 50px 10px 10px 80px;
+  background-color: whitesmoke;
+
+}
+

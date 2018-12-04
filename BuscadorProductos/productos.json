@@ -1,0 +1,51 @@
+[
+  {
+    "name":"Iphone 8 Plus",
+    "image": "images/iphone_8_plus.png",
+    "price":"$ 40000.00",
+    "idCategoria": 1
+  },
+  {
+    "name":"Galaxy S9",
+    "image": "images/galaxyS9.jpg",
+    "price":"$ 25000.00",
+    "idCategoria": 1
+  },
+  {
+    "name":"Nokia 1100",
+    "image": "images/nokia1100.jpg",
+    "price":"$ 100.00",
+    "idCategoria": 1
+  },
+  {
+    "name":"Iphone 8",
+    "image": "images/iphone_8.jpg",
+    "price":"$ 37000.00",
+    "idCategoria": 1
+  },
+  {
+    "name":"Iphone 6",
+    "image": "images/iphone6.jpg",
+    "price":"$ 30000.00",
+    "idCategoria": 1
+  },
+  {
+    "name":"Juego de vasos",
+    "image": "images/juegoVasos.jpg",
+    "price":"$ 1000.00",
+    "idCategoria": 2
+  },
+  {
+    "name":"Jarron Ming",
+    "image": "images/jarronMing.jpg",
+    "price":"$ 150000.00",
+    "idCategoria": 2
+  },
+  {
+    "name":"Carpa 6 personas",
+    "image": "images/carpa-2-dormitocarpa.jpg",
+    "price":"$ 10000.00",
+    "idCategoria": 3
+  }
+
+]
